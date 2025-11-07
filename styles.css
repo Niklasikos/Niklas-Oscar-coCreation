@@ -24,3 +24,7 @@ p {
     align-items: baseline;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+img {
+    margin-left: 40%;
+}
